@@ -1,0 +1,33 @@
+.profile-photo {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+body {
+  background-image: url("./pastel-leaves-aesthetic-pattern-gjtnfutk6zibt3d5.jpg"); /* Set your background image */
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: overlay;
+}
+.dm-serif-display-regular {
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sansserif {
+  font-family: "Nunito", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.card-cover{
+  background-color: rgba(0, 0, 0, 0.7);
+  background-blend-mode: overlay;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
